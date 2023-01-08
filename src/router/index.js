@@ -1,5 +1,7 @@
 import Vue from 'vue'
-import VueRouter from 'vue-router'
+// import VueRouter from 'vue-router'
+import VueRouter from '../myVouter/vueRouter'
+// import VueRouter from '../myVouter/VueRouterCopy'
 import HomeView from '../views/HomeView.vue'
 
 Vue.use(VueRouter)
